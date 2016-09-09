@@ -1,0 +1,5 @@
+c:\users\benge\documents\visual studio 2013\Projects\BibleVerse\BibleVerse.Database\bin\Debug\BibleVerse.Database.dacpac
+c:\users\benge\documents\visual studio 2013\Projects\BibleVerse\BibleVerse.Database\bin\Debug\BibleVerse.Database.dll
+c:\users\benge\documents\visual studio 2013\Projects\BibleVerse\BibleVerse.Database\bin\Debug\BibleVerse.Database.pdb
+c:\users\benge\documents\visual studio 2013\Projects\BibleVerse\BibleVerse.Database\obj\Debug\BibleVerse.Database.dll
+c:\users\benge\documents\visual studio 2013\Projects\BibleVerse\BibleVerse.Database\obj\Debug\BibleVerse.Database.pdb
